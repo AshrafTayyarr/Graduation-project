@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:iconTint="@color/black"
+
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/university_in"
+        android:title="In"
+        android:iconTint="@color/black"
+        android:icon="@drawable/university_in"
+        />
+    <item
+        android:id="@+id/fab"
+        android:title=""
+        android:enabled="false"/>
+    <item
+        android:id="@+id/university_out"
+        android:title="Out"
+        android:iconTint="@color/black"
+        android:icon="@drawable/university_out"/>
+    <item
+        android:id="@+id/menu"
+        android:title="Menu"
+        android:icon="@drawable/menu_svgrepo_com"/>
+</menu>

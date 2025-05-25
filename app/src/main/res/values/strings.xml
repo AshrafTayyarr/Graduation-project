@@ -1,0 +1,338 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">TTU Guide</string>
+
+    <string name="fontar" tools:ignore="ReferenceType">@font/aclonica</string>
+
+    <!-- Home items -->
+    <string name="ttu_guide">TTU Guide</string>
+    <string name="everything_student_needs">Everything A Student Needs!</string>
+    <string name="website">Website</string>
+    <string name="note">Note</string>
+    <string name="trend">Trend</string>
+
+
+
+
+    <!-- menu items -->
+    <string name="home">Home</string>
+    <string name="in">In</string>
+    <string name="out">Out</string>
+
+    <!-- Navigation Drawer items -->
+    <string name="menu">Menu</string>
+    <string name="profile">Profile</string>
+    <string name="my_schedule">My Schedule</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="about_us">About Us</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="change_theme">Change Theme</string>
+
+    <!-- Outside University Fragment -->
+    <string name="outside_university_fragment_title">Outside the University</string>
+    <string name="dorm">Dorms</string>
+    <string name="bus">Bus</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="location">Location</string>
+    <string name="water_gaz">Water | Gaz</string>
+    <string name="libraries_outside">Libraries</string>
+
+    <!-- Inside University Fragment -->
+    <string name="title_inside_university">Inside The University</string>
+    <string name="schedule">Schedule</string>
+    <string name="courses">Courses</string>
+    <string name="gate">Gate</string>
+    <string name="map">Map</string>
+    <string name="majors">Majors</string>
+    <string name="online">Online</string>
+    <string name="materials">Materials</string>
+    <string name="services">Services</string>
+
+    <!-- every out Fragment -->
+    <string name="men_s_Dorm">Men\'s Dorm</string>
+    <string name="women_s_Dorm">Women\'s Dorm</string>
+    <string name="sweets">Sweets</string>
+    <string name="water">Water</string>
+    <string name="gaz">Gaz</string>
+    <string name="groups">Groups</string>
+    <string name="search_dorms">Search Dorms....</string>
+    <string name="search_libraries">Search Libraries....</string>
+    <string name="search_restaurants">Search restaurants....</string>
+    <string name="search_water_gaz"><![CDATA[Search Water&Gaz....]]></string>
+    <string name="search_bus">Search bus....</string>
+
+
+
+
+
+
+        <string name="alarm_channel_name">Alarm Channel</string>
+        <string name="alarm_channel_description">Channel for Alarm Notifications</string>
+
+        <string name="toast_max_courses">Maximum number of courses added</string>
+        <string name="toast_invalid_position">Invalid position</string>
+        <string name="alarm_dialog_title">Set Alarm</string>
+        <string name="alarm_dialog_message">Do you want to set an alarm for this course?</string>
+        <string name="alarm_dialog_set">Set</string>
+        <string name="alarm_dialog_cancel">Cancel</string>
+        <string name="alarm_set_toast">Alarm set for 9:00 AM</string>
+        <string name="notification_title">Class Reminder</string>
+        <string name="course_0">Course 0</string>
+        <string name="course_1">Course 1</string>
+        <string name="course_2">Course 2</string>
+        <string name="course_3">Course 3</string>
+        <string name="course_4">Course 4</string>
+        <string name="course_5">Course 5</string>
+        <string name="course_6">Course 6</string>
+        <string name="course_7">Course 7</string>
+        <string name="course_8">Course 8</string>
+        <string name="course_9">Course 9</string>
+        <string name="course_10">Course 10</string>
+        <string name="course_11">Course 11</string>
+        <string name="course_12">Course 12</string>
+        <string name="course_13">Course 13</string>
+        <string name="course_14">Course 14</string>
+        <string name="course_15">Course 15</string>
+        <string name="course_16">Course 16</string>
+        <string name="time_0">9:00 - 10:30 AM</string>
+        <string name="time_1">10:45 - 12:15 PM</string>
+        <string name="time_2">12:30 - 2:00 PM</string>
+        <string name="time_3">2:15 - 3:45 PM</string>
+        <string name="time_4">4:00 - 5:30 PM</string>
+        <string name="time_5">5:45 - 7:15 PM</string>
+        <string name="time_6">7:30 - 9:00 PM</string>
+        <string name="time_7">9:15 - 10:45 PM</string>
+        <string name="time_8">11:00 - 12:30 AM</string>
+        <string name="time_9">12:45 - 2:15 AM</string>
+        <string name="time_10">2:30 - 4:00 AM</string>
+        <string name="time_11">4:15 - 5:45 AM</string>
+        <string name="time_12">6:00 - 7:30 AM</string>
+        <string name="time_13">7:45 - 9:15 AM</string>
+        <string name="time_14">9:30 - 11:00 AM</string>
+        <string name="time_15">11:15 - 12:45 PM</string>
+        <string name="time_16">1:00 - 2:30 PM</string>
+
+
+
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+   Description for Majors
+   -->
+    <string name="CivilEngineering">This specialization aims to graduate qualified professionals in the study and design of projects and infrastructure such as buildings, roads, water networks, sewage systems, bridges, tunnels, dams, and railways.</string>
+    <string name="ElectricalPowerEngineering">This specialization aims to prepare engineers specializing in essential electrical equipment such as generators, transformers, and motors, focusing on electrical circuits, technologies, design, protection circuits, high voltage insulation techniques required for them, control, operation, and equipment linking to form the power station. It covers stages of production, conversion, transmission, and distribution of electrical energy.</string>
+    <string name="MechatronicsEngineering"> Mechatronics is a discipline that combines electrical engineering, mechanical engineering, and computer engineering. It aims to provide students with knowledge and understanding of the working systems, applications, and control methods of each specialization. Mechatronics engineers are responsible for integrating the entire system and producing a comprehensive control system capable of solving a wide range of electrical, mechanical, and software problems, enabling them to lead multiple design teams.</string>
+    <string name="MechanicalEngineeringProductionandMachines">This specialization aims to prepare engineers specialized in technical management of production lines, monitoring and controlling manufacturing operations, shaping and operating on lathes, milling machines, welding, operating modern machinery, as well as the ability to handle industrial problems, solve them, and manage work teams.</string>
+    <string name="AirConditioning">This field deals with controlling the environment by managing temperature, humidity, and air movement inside a conditioned space to achieve a suitable indoor environment.</string>
+    <string name="Vehicles">This specialization enables students to comprehend essential concepts in automotive principles through laboratories and workshops, familiarizing them with various vehicle systems based on physical principles and safety considerations in vehicles. It covers diagnosis, maintenance, repair, service of vehicles, and familiarity with various electronic systems in them, allowing students to perform vehicle maintenance and service.</string>
+    <string name="GeologicalEngineering">This specialization aims to prepare graduates in construction, mineral resources, environmental and water sectors. It includes teaching applied geology, geotechnology, geophysics, surface and groundwater, metallic and non-metallic information systems, and their economic evaluation.</string>
+    <string name="ChemicalEngineering">This specialization focuses on industrial processes such as petrochemicals, fertilizers, and pharmaceuticals. Chemical engineers convert low-cost raw materials into valuable products, applying practical applications of chemistry, physics, and mathematics. It involves designing various devices like chemical reactors, refining towers, absorption, separation, and heat exchangers.</string>
+    <string name="MiningEngineering">This specialization aims to equip students with knowledge in mineral exploration, evaluating deposits in terms of size, mineral concentration, and efficient extraction and processing methods that are safe for humans and the environment, with the best economic return. It covers geology, minerals, rocks, surface and underground mining, drilling and blasting techniques, rock and soil mechanics, and processing metallic and non-metallic ores.</string>
+    <string name="ComputerEngineering">This specialization aims to prepare engineers specializing in designing and maintaining various computer applications such as network building, software, databases, internet applications, industrial control systems, protection systems, digital communications, and expert systems. It focuses on analysis, evaluation, measurement, design, testing, production, and maintenance of computer materials, devices, and systems.</string>
+    <string name="Communications">This specialization aims to provide students with theoretical and practical skills to engage in professions related to communications and electronics engineering. It involves studying various designs of digital and analog communication circuits, analyzing and controlling communication networks in terms of reading and analyzing information, and ensuring their stability.</string>
+    <string name="IntegratedRenewableEnergyEngineering">This specialization aims to graduate engineers capable of dealing with renewable energy systems and their impact on the traditional electrical grid. It combines the ability to handle both traditional and renewable energy systems and integrate them within the electrical grid.</string>
+    <string name="SmartSystemsEngineering">This specialization aims to keep pace with the Fourth Industrial Revolution in the field of artificial intelligence, automated control and protection systems, and autonomous systems. It equips graduates with the necessary engineering knowledge and skills in areas such as control systems, smart programming, computer vision, machine learning, data mining, and analysis.</string>
+    <string name="Chemistry">This specialization aims to prepare students through theoretical and practical courses in organic chemistry, inorganic chemistry, physical chemistry, analytical chemistry, industrial chemistry, preparation of organic compounds, separation of natural compounds, electrochemistry, environmental studies, water research, metalloorganic chemistry, biochemical compounds, colloid chemistry, pharmaceutical chemistry, surface chemistry, and environmental pollutants. It is one of the fundamental sciences.</string>
+    <string name="ChemicalTechnology">This specialization explores various scientific fields such as organic, inorganic, physical, and analytical chemistry from theoretical and laboratory perspectives, with practical applications in the manufacturing and analysis of chemical compounds in various fields such as pharmaceuticals, polymers, and industrial chemistry.</string>
+    <string name="AppliedPhysics">This specialization focuses on preparing scientifically qualified personnel in theoretical and applied physics. It meets the needs of students in general physics, classical mechanics, modern physics, quantum mechanics, electromagnetism, thermal dynamics, atomic and nuclear physics, mathematical physics, solid-state physics, molecular physics, optics, and astronomy. Students acquire skills and abilities in handling precision instruments, computers, plasma physics, lasers, medical physics, semiconductor physics, forming the basis of applied sciences.</string>
+    <string name="Mathematics">Mathematics is defined as the study of measurement, calculation, and geometry. This specialization focuses on developing students abilities in solving mathematical problems and influencing the outcomes of these solutions. Mathematics is the cornerstone of all other scientific subjects and is fundamental to technological, medical, economic, and educational advancements.</string>
+    <string name="AppliedBiologicalSciences">This specialization aims to equip students with skills and knowledge related to biochemistry, genetics, molecular biology, cell biology, parasitology, animal and plant physiology, immunology, microbiology, plant classification, and environment.</string>
+    <string name="FinancialandBankingSciences">This specialization aims to provide students with a theoretical and applied background in the financial system, including project financing, real estate financing, economic and financial feasibility studies. It also equips them with practical aspects of granting loans and market manipulation in financial and monetary markets. Moreover, it covers financial aspects related to joint-stock companies and banks, preparing students with skills for investing in financial markets through stocks, bonds, and portfolio formation.</string>
+    <string name="BusinessEconomics">This specialization focuses on studying how economic units operate and prepares economists interested in optimizing scarce economic resources such as capital and raw materials, and how to produce and distribute them within society. Students are provided with information on economic analysis, economic problems, concepts of national income, economic models, and analytical tools. They also learn about public revenues and expenditures, and the impact of surplus or deficit on state budgets.</string>
+    <string name="BusinessAdministration">This major aims to impart specialized managerial and practical concepts in human resources management, business administration, and organizational management. It enables graduates to manage private projects and work in institutions as managers, directors, and leaders.</string>
+    <string name="Accounting">Accounting is the language of finance and commerce, involving the classification, recording, transfer, summarization, and organization of financial transactions in a readable form for internal and external users. Accounting is used in all types of large, medium, and small companies.</string>
+    <string name="ComputerInformationSystems"> This specialization aims to graduate and qualify students in the computerization of information systems in various fields such as accounting, finance, administration, medicine, etc. Its goal is to develop students abilities in planning, designing, implementing, developing, and managing information systems that serve various institutions such as banks, universities, and hospitals.</string>
+    <string name="MobileComputing">This program offers strong theoretical foundations and practical training to prepare qualified specialists with the necessary knowledge and skills in the field of mobile computing. Due to the scarcity of specialists in this field, the program aims to meet the needs of the local and regional technology market. It aims to train qualified experts with the necessary knowledge of concepts related to analyzing, designing, developing, maintaining, and managing mobile applications.</string>
+    <string name="ArtificialIntelligenceandDataScience">This specialization aims to provide students with fundamental knowledge and specific techniques in data science and practical foundations for using data science technologies in enterprise management and efficiency enhancement. Students learn how to think about data in a general work context, organize it, examine it to develop realistic business solutions and models. The program provides strong theoretical grounding and practical training to prepare qualified specialists with the knowledge and skills necessary to handle big data statistically, from data collection to refinement, classification, analysis, deriving information and knowledge from it, and utilizing it for accurate and scientific decision-making. The program also aims to equip students with machine learning concepts and train them to use them in data analysis, provide them with artificial intelligence concepts, train them in using its principles in data analysis, and provide them with the necessary skills to build future prediction models and use them to solve problems faced by government and private institutions, increasing their productivity and efficiency.</string>
+    <string name="CyberSecurity">A cybersecurity bachelor’s degree is another entry-level program, but this degree lasts four years instead of two and provides a more comprehensive foundation in cybersecurity.Students develop fundamental IT skills through coursework in programming, data analytics, information security and risk management. Graduates often go on to work as cybersecurity engineers, information security analysts and network engineers.</string>
+    <string name="gallery">Gallery</string>
+
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    Description for CourseStudy
+    -->
+    <string name="RemedialComputerSkills">Course Number: 0206099\nRegistration Number: 257\nRoom: Online\nTime: 06:00 PM - 07:10 PM\nDays: Saturday,Monday,Tuesday, Wednesday,Thursday\n</string>
+    <string name="DigitalCulture">"Course Number: 0602100\nRegistration Number: 269\nRoom: Online\nTime: 06:00 PM - 07:10 PM\nDays: Saturday,Monday,Tuesday, Wednesday,Thursday"</string>
+    <string name="DiscreteMathematics">"Course Number: 0602111\nRegistration Number: 268\nRoom: DS-ICT 1 Computer Lab\nTime: 02:30 PM - 03:40 PM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="IntroductiontoProgramming">"Course Number: 0602121\nRegistration Number: 286\nRoom: ICT 1 Computer Lab\nTime: 08:30 AM - 10:00 AM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="LogicCircuitdDesign">"Course Number: 0602131\nRegistration Number: 263\nRoom: DS-ICT 1 Computer Lab\nTime: 08:30 AM - 10:00 AM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="DataStructures">"Course Number: 0602211\nRegistration Number: 266\nRoom: DS-ICT 5 Computer Lab, ICT 1 Lab\nTime: 11:30 AM - 12:40 PM, 02:30 PM - 04:30 PM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="Algorithms">"Course Number: 0602212\nRegistration Number: 254\nRoom: DS-ICT 1 Computer Lab\nTime: 01:00 PM - 02:10 PM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="ProbabilityTheoryAndStatistics">"Course Number: 0602242\nRegistration Number: 270\nRoom: 217\nTime: 08:30 AM - 10:00 AM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="ComputerVision">"Course Number: 0602371\nRegistration Number: 264\nRoom: DS-ICT 2 Computer Lab\nTime: 11:30 AM - 01:00 PM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="FieldTraining1">"Course Number: 0602491\nRegistration Number: 259\nRoom: Training Location\nTime: 08:00 AM - 12:00 PM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="FieldTrainin2">"Course Number: 0602491\nRegistration Number: 676\nRoom: Training Location\nTime: 08:00 AM - 12:00 PM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="ObjectOrientedProgramming1">"Course Number: 0601121\nRegistration Number: 281-284\nRoom&amp;Time: (DS-ICT 1) 10:00 AM - 11:30 AM\n (DS-ICT 6) 01:00 PM - 02:30 PM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="FundamentalsofInformationandCommunicationTechnology">"Course Number: 0601151\nRegistration Number: 278\nRoom: DS-ICT 3 Computer Lab\nTime: 08:30 AM - 09:40 AM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="MobileDeviceComputingTechnology">"Course Number: 0601243\nRegistration Number: 273\nRoom: DS-ICT 6 Computer Lab\nTime: 11:30 AM - 12:40 PM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="InformationSystemsAnalysisAndDesign">"Course Number: 0601341\nRegistration Number: 272\nRoom: ICT 7 Computer Lab\nTime: 01:00 PM - 02:10 PM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="GeneralApplicationsForMobileDevices">"Course Number: 0601342\nRegistration Number: 274\nRoom: ICT 6 Computer Lab\nTime: 01:00 PM - 02:10 PM, 02:30 PM - 04:30 PM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="DataWarehousing">"Course Number: 0601354\nRegistration Number: 275\nRoom: DS-ICT 6 Computer Lab\nTime: 08:30 AM - 09:40 AM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="SoftwareEngineering">"Course Number: 0601441\nRegistration Number: 271\nRoom: DS-ICT 2 Computer Lab\nTime: 10:00 AM - 11:10 AM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="EBusinessAndMarketing">"Course Number: 0601451\nRegistration Number: 282\nRoom: DS-ICT 4 Computerized Hall	\nTime: 11:30 AM - 12:40 PM	\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="OperatingSystems1">"Course Number: 0602331\nRegistration Number: 262\nRoom: DS-ICT 3 Computer Lab\nTime: (10:00 AM - 11:30 AM) (01:00 PM - 02:30 PM)\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="OperatingSystems2">"Course Number: 0602331\nRegistration Number: 704\nRoom: DS-ICT 2 Computer Lab\nTime: 01:00 PM - 02:30 PM\nDays: Saturday, Monday, Tuesday, Wednesday"</string>
+    <string name="ArtificialIntelligence">"Course Number: 0602341\nRegistration Number: 256-256\nRoom: DS-ICT 5 Computer Lab\nTime: (10:00 AM - 11:10 AM)(01:00 PM - 02:10 PM)\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="ComputerSkills2">"Course Number: 0601102\nRegistration Number: 279–280\nRoom&amp;Time: (DS-ICT 1) 11:30 AM - 12:40 PM\n (DS-ICT 4) 08:30 AM - 09:30 AM \nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="ComputerSkills2_">"Course Number: 0601103\nRegistration Number: 276\nRoom&amp;Time: (ICT 4) 08:30 AM - 09:40 AM\n(ICT 3) 10:00 AM - 11:10 AM	 \nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="MalwareAnalysis">"Course Number: 0603344\nRegistration Number: 265\nRoom: DS-ICT 3\nTime: 11:30 AM - 01:00 PM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+    <string name="CyberSecurityBasics">"Course Number: 0603240\nRegistration Number: 260\nRoom: DS-ICT 5\nTime: 08:30 AM - 09:40 AM\nDays: Saturday, Monday, Tuesday, Wednesday, Thursday"</string>
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+       Description for materials
+       -->
+
+    <string name="operating_systems">Examine how operating systems and design have evolved as changes in hardware and software led to contemporary operating systems.
+        Topics include basic OS concepts, methods of OS design and construction, process coordination, management, and algorithms for CPU scheduling, memory, and general resource allocation.</string>
+
+    <string name="human_computer_interaction">Course Description:	In this course, students are introduced to the fundamental theories and concepts of human computer interaction (HCI).
+        HCI is an interdisciplinary field that integrates theories and methodologies across many domains including cognitive psychology, neurocognitive engineering, computer science, human factors, and engineering design. Students will gain
+        theoretical knowledge of and practical experience in the fundamental aspects of human perception, cognition, and learning as relates to the design, implementation, and evaluation of interfaces. Topics covered include: interface design,
+        usability evaluation, universal design, multimodal interfaces (touch, vision, natural language and 3-D audio), virtual reality, and spatial displays. In addition to lectures, students will work on individual and team assignments to
+        design, implement, and evaluate various interactive systems and user interfaces based on knowledge culled from class material and additional research.</string>
+
+    <string name="software_engineering">The purpose of this course is to introduce the student to software engineering techniques, requirements engineering, software specification, software development and management of software projects.</string>
+
+    <string name="cloud_computing">This course presents the concept of Cloud Computing. Students will learn the
+        technical meaning of Cloud Computing, its characteristics, and the different
+        models of Cloud computing. Students will practice a set of cloud tools,
+        services, platforms, etc. Students will be able to build, consume, configure,
+        and maintain some cloud services and tools, and employ them to construct
+        real cloud-based systems and applications.</string>
+
+    <string name="computer_networks">This course explores key concepts and essential technologies of computer networks and broad range
+        of topics in networking, including: General overview: networks applications, network classifications
+        nd topologies, network layers, channel performance measures, transmission media, communication
+        network protocols and architecture; data link layer: framing, error detection and correction,
+        CSMA/CD, LAN IEEE standards; Network layer: IP service model, IP Addressing, subnetting, host
+        configuration DHCP, ARP Protocol, ICMP protocol; Transport layer: UDP protocol, TCP protocol,
+        TCP reliable transfer and sliding window, TCP flow and congestion control; application layer: DNS
+        protocol, NAT protocol, HTTP protocol, persistent and non-persistent HTTP connection.</string>
+
+    <string name="web_application_development_2">This course offers the opportunity for students to learn a set of techniques
+        that are used to develop modern web applications. The course targets the
+        evelopment process of Server-Side Web applications. Students will learn
+        how to plan, manage, organize, and implement a complete web application
+        using state-of-the-art tools and techniques like ASP.NET, Web API, and
+        programming business logic using C# language. </string>
+
+    <string name="visual_programming">In this course, students will learn the main GUI elements, and learn how to
+        design GUIs for Windows desktop applications and write C# codes. The
+        principles of Object-oriented Model will be revised and employed in this
+        course to build-up and implement example applications and case studies. In
+        addition, topics like exception handling, user input validation, and others will be taught as well. </string>
+
+    <string name="Advanced_Programming_in_Mobile_Applications">This course introduces students to advanced programming technologies, design, and development
+        related to mobile applications. Topics include accessing device capabilities, industry standards,
+        perating systems, and programming for mobile applications using an OS Software Development Kit
+        (SDK).  In this course, students will learn to design applications for mobile and wearable devices, taking
+        into account the limitations introduced by the nature of these devices, use tools such as App Inventor
+        Develop for application programming, and implement applications through the use of SDKs such as the
+        Android SDK. User interface and user experience will be discussed and application development
+        guidelines from various vendors will be discussed and analysed. Lastly, the course will look at some
+        current research in mobile computing. </string>
+
+    <string name="Data_Mining">This course is an introductory course on data mining. It introduces the basic concepts, principles,
+        methods, implementation techniques, and applications of data mining, with a focus on three major
+        ata mining functions: (1) pattern discovery and (2) Classification and (3) cluster analysis. It also
+        gives an introduction to data warehousing and data acquisition and pre-processing, dimensionality
+        reduction and outlier detection.</string>
+
+    <string name="Databases">This course covers fundamental concepts of database systems. These concepts include database
+        modelling and design, relational databases, querying and SQL, query optimization, and data storage.
+        any additional key database topics from the design and application-building perspective are also
+        covered, including indexes, views, transactions, and integrity constraints.</string>
+
+    <string name="Mobile_Wireless_Networks">Wireless networks and their basic operation, different types of wireless technologies
+        and systems, the basics of how they operate, different types of wireless voice, data
+        nd broadcast services, key commercial systems.  Wi-Fi wireless networks, Bluetooth
+        wireless technology, GSM cellular networks, cellular internet access via Wireless
+        access protocol (WAP), GPRS and UMTS networks, wireless networks operating
+        system; Android OS, iOS, Mobile IP and Mobile routing, Transport layer over wireless
+        networks, Mobile wireless network applications.</string>
+
+    <string name="Artificial_Intelligence_and_Data_Science_Programming">This course provides a pragmatic and hands-on introduction to the Python programming language, with a focus on
+        practical applications, projects, and the skills necessary to analyze problems. This course covers topics including
+        the basics (variables and data types, Control Structures, repetition Structures, and functions), data structures
+        such as Lists and Tuples, Object- Oriented Programming (classes, inheritance, and polymorphism), iterators and
+        geneators, regular expressions, lambda, file Input and Output, and dictionaries. The course also contains a lab
+
+        component for program testing and debugging.</string>
+    <string name="Internet_Programming">In this course, students will learn the basic web development process using HTML.
+        Then they will learn how to enhance and format web page contents by applying CSS rules. Finally, they will learn how to program with Java Script (JS) language to improve web pages functionality.
+        In addition,they will learn how to utilize and make use of some frameworks like Bootstrap, and how to deal with IDE tools like VS Code® and Atom. </string>
+
+    <string name="artificial_intelligence">This course provides an introduction to artificial intelligence (AI) and the scope and applications of AI.
+        Topics include problem-solving by searching, game techniques, propositional logic, first-order logic, uncertainty, and Bayesian networks. Besides, it covers Prolog programming.</string>
+
+
+
+    <string-array name="courses_array">
+        <item>Cyber Security Basics \n\nDr. Shorouq Ahmed Suleiman Al-Aidi</item>
+        <item>Basics in Information Communications Technology - Dr. Ahmed Mohammed Suleiman Al-Freijat</item>
+        <item>E-business And E-marketing - Dr. Munther Ali Muslim Al-Tarawneh</item>
+        <item>Object-oriented Programming 1 - Dr. Khaled Ali Azzam Al-Omariyin</item>
+        <item>Field Training - Abdullah Muzail Mahmoud Al-Shabatat</item>
+        <item>Field Training - Dr. Shorouq Ahmed Suleiman Al-Aidi</item>
+        <item>Digital Culture - Dr. Muhammad Al-Farahid</item>
+        <item>Algorithms - Dr. Nancy Saleh Abdullah Al-Ajarma</item>
+        <item>Artificial Intelligence - Dr. Jamil Ahmed Jamil Al-Sawa</item>
+        <item>Malware Analysis - Dr. Iman Mohammed Suwailem Al-Qatimat</item>
+        <item>System Analysis And Design - Dr. Farhan Mohammed Abdul Latif Al-Abisat</item>
+        <item>Data Structures - Mustafa Abdel Qader Atwi Al-Damour</item>
+        <item>Logic Circuit Design - Dr. Ibrahim Yassin Suleiman Al-Tarawneh</item>
+        <item>General Mobile Applications - Dr. Ayman Mamdouh Ahmed Ayal Awad</item>
+        <item>Mobile Computing Technology - Dr. Ayman Mamdouh Ahmed Ayal Awad</item>
+        <item>Computer Vision - Dr. Ibrahim Yassin Suleiman Al-Tarawneh</item>
+        <item>Discrete Mathematics - Dr. Mohammed Al-Farahid</item>
+        <item>Data Warehouses - Dr. Munther Ali Muslim Al-Tarawneh</item>
+        <item>Introduction to Programming - Dr. Iman Mohammed Suwailem Al-Qatimat</item>
+        <item>Computer Skills 2 (Humanitarian Colleges) - Laith Muhammad Khalaf Al-Jafut</item>
+        <item>Computer Skills 2 (Scientific Colleges) - Abdullah Muzail Mahmoud Al-Shabatat</item>
+        <item>Remedial Computer Skills - Dr. Shorouq Ahmed Suleiman Al-Aidi</item>
+        <item>Probability Theory And Statistics for Data Science - Dr. Muhammad Abdul Mahdi Reda Al-Jarrah</item>
+        <item>Operating Systems - Dr. Mohammed Abdullah Suleiman Al-Musaideen</item>
+        <item>Operating Systems - Dr. Muhammad Al-Farahid</item>
+        <item>Software Engineering - Dr. Farhan Mohammed Abdul Latif Al-Abisat</item>
+    </string-array>
+
+    <string-array name="Alarm">
+
+        <item>Select</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>1 hour</item>
+        <item>off</item>
+
+    </string-array>
+
+    <string name="about_university">About university</string>
+    <string name="text_line1">Tafila Technical University was established in 2005, being the ninth official university and the first technical university in the Hashemite Kingdom of Jordan.</string>
+    <string name="text_line2">The total area of the university is 77,550 square meters, extending in the heart of the Al-Ays area.</string>
+    <string name="text_line4">University Colleges: The university has six colleges: Engineering, Science, Information and Communication Technology, Business, Educational Sciences, and Arts. Additionally, there are two deanships: Student Affairs, and Scientific Research and Graduate Studies.</string>
+    <string name="text_line6">Study Programs: Bachelors, General Diploma, Intermediate Diploma, and Masters.</string>
+    <string name="text_line9">Address: Tafila Technical University PO Box 179, 66110 Tafila Jordan</string>
+    <string name="text_line10">Telephone Number: +962 (3) 2250326</string>
+    <string name="text_line11">Fax Number: +962 (3) 2250002</string>
+    <string name="text_line12">Email: presidency@ttu.edu.jo Liaison Office</string>
+    <string name="text_line13">Telephone Number: +962 (6) 5333004</string>
+    <string name="text_line14">Fax Number: +962 (6) 5333002</string>
+    <string name="team_member1">Mohammed Hani Alwahidi</string>
+    <string name="team_member2">Ashraf Mousa Tayyar</string>
+    <string name="team_member3">Asim Emad Abualrub</string>
+    <string name="team_title">Team Members</string>
+
+
+    <string name="course_study">Course Study</string>
+    <string name="search_course">Search Course....</string>
+    <string name="online_courses">Online Courses</string>
+    <string name="search_materials">Search Materials....</string>
+    <string name="engineer_majors">Engineer Majors</string>
+    <string name="science_majors">Science Majors</string>
+    <string name="business_majors">Business Majors</string>
+    <string name="university_colleges">University Colleges</string>
+    <string name="it_majors">IT Majors</string>
+
+
+
+</resources>
